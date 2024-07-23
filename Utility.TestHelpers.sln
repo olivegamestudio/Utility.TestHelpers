@@ -1,0 +1,26 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utility.TestHelpers", "src\Utility.TestHelpers.csproj", "{648B1037-BC95-4D97-8335-2F89FB7D83BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{648B1037-BC95-4D97-8335-2F89FB7D83BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648B1037-BC95-4D97-8335-2F89FB7D83BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648B1037-BC95-4D97-8335-2F89FB7D83BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648B1037-BC95-4D97-8335-2F89FB7D83BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36CCBDBC-6DD0-460C-989F-1FE0CD214BED}
+	EndGlobalSection
+EndGlobal
+lSection
+EndGlobal
